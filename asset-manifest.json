@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mindleaps-skills/static/css/main.ab6dd45f.css",
+    "main.css": "/mindleaps-skills/static/css/main.687e559b.css",
     "main.js": "/mindleaps-skills/static/js/main.60b85053.js",
     "index.html": "/mindleaps-skills/index.html",
-    "main.ab6dd45f.css.map": "/mindleaps-skills/static/css/main.ab6dd45f.css.map",
+    "main.687e559b.css.map": "/mindleaps-skills/static/css/main.687e559b.css.map",
     "main.60b85053.js.map": "/mindleaps-skills/static/js/main.60b85053.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab6dd45f.css",
+    "static/css/main.687e559b.css",
     "static/js/main.60b85053.js"
   ]
 }
