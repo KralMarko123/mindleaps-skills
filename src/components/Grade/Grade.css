@@ -1,0 +1,57 @@
+.grade {
+  min-width: 300px;
+  width: calc((100% / 3) - 1em);
+}
+
+.grade-content {
+  position: relative;
+  width: 100%;
+
+  z-index: 2;
+}
+
+.grade-value {
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-family: var(--secondary-font);
+  font-weight: bold;
+
+  background-color: var(--ml-light);
+  border-radius: 5px;
+  box-shadow: var(--small-shadow);
+
+  color: var(--text-color);
+
+  overflow: hidden;
+}
+
+.grade-content::after {
+  content: attr(data-text);
+  position: absolute;
+  top: 0%;
+  left: 50%;
+  width: 90%;
+  padding: 0.5em;
+
+  background-color: var(--ml-dark);
+  border-radius: 0px 0px 10px 10px;
+
+  color: rgba(253, 255, 252, 0);
+  font-family: var(--main-font);
+  font-size: 1.5rem;
+
+  transform: translateX(-50%);
+  transition: all 0.25s ease-in-out, color 0.25s ease-in-out 0.25s;
+  z-index: -1;
+}
+
+.grade-content:hover {
+  cursor: pointer;
+}
+
+.grade-content:hover::after {
+  color: var(--text-color);
+  top: 100%;
+  opacity: 1;
+}

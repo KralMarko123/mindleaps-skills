@@ -1,0 +1,43 @@
+[
+  {
+    "Skill": "Grit",
+    "Grade": 1,
+    "Description": "The Student comes but does not participate in the class whatsoever"
+  },
+
+  {
+    "Skill": "Grit",
+    "Grade": 2,
+    "Description": "The Student comes but participates in less than half of the class"
+  },
+
+  {
+    "Skill": "Grit",
+    "Grade": 3,
+    "Description": "The Student participates in the whole class but barely gets through each section"
+  },
+
+  {
+    "Skill": "Grit",
+    "Grade": 4,
+    "Description": "The Student participates in the whole class, whilst actively pushing and trying to follow along with directional changes"
+  },
+
+  {
+    "Skill": "Grit",
+    "Grade": 5,
+    "Description": "The Student pushes through the whole class and gives his all"
+  },
+
+  {
+    "Skill": "Grit",
+    "Grade": 6,
+    "Description": "The Student pushes through the whole class and aggresively asks questions showing interest for more"
+  },
+
+  {
+    "Skill": "Grit",
+    "Grade": 7,
+    "Description": "The Student pushes through and is a role model for the whole class. Shows perserverance and hard-work throughout"
+  }
+]
