@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mindleaps-skills/static/css/main.1265cc6e.css",
+    "main.js": "/mindleaps-skills/static/js/main.60b85053.js",
+    "index.html": "/mindleaps-skills/index.html",
+    "main.1265cc6e.css.map": "/mindleaps-skills/static/css/main.1265cc6e.css.map",
+    "main.60b85053.js.map": "/mindleaps-skills/static/js/main.60b85053.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1265cc6e.css",
+    "static/js/main.60b85053.js"
+  ]
+}
