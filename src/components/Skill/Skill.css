@@ -1,5 +1,6 @@
 .skill-section {
   width: 100%;
+  height: 100%;
 
   display: flex;
   flex-direction: column;
@@ -34,4 +35,25 @@
 
   column-gap: 1em;
   row-gap: calc(1.5rem * 5);
+}
+
+@media (max-width: 1279px) {
+  .skill-section {
+    justify-content: center;
+  }
+
+  .section-title {
+    padding: 0em 1em;
+
+    font-size: 2rem;
+    letter-spacing: 3px;
+  }
+
+  .grades-container {
+    width: 100%;
+
+    justify-content: unset;
+
+    row-gap: 1em;
+  }
 }

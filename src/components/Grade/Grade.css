@@ -7,7 +7,7 @@
   position: relative;
   width: 100%;
 
-  z-index: 2;
+  z-index: 1;
 }
 
 .grade-value {
@@ -54,4 +54,34 @@
   color: var(--text-color);
   top: 100%;
   opacity: 1;
+}
+
+@media (max-width: 1279px) {
+  .grade {
+    min-width: 100px;
+    width: 100%;
+  }
+
+  .grade-content {
+    z-index: unset;
+  }
+
+  .grade-value {
+    font-size: 1.5rem;
+  }
+
+  .grade-content::after {
+    top: 100%;
+    font-size: 1rem;
+
+    transform: translateX(-50%);
+    transition: all 0.25s ease-in-out, color 0.25s ease-in-out 0.25s;
+    opacity: 0;
+    z-index: -1;
+  }
+
+  .grade-content:focus::after,
+  .grade-content:active::after {
+    z-index: 100;
+  }
 }
