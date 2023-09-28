@@ -1,10 +1,10 @@
 import React from 'react';
-import grades from '../../data/Grades.json';
 import Grade from '../Grade/Grade';
+import { SKILL_DEFINITIONS } from '../../constants/SKILLS';
 import './Skill.css';
 
 const Skill = ({ skill }) => {
-  const filteredGrades = grades.filter((g) => g.Skill === skill);
+  const filteredGrades = SKILL_DEFINITIONS.filter((sd) => sd.Skill === skill);
 
   return (
     <div className="skill-section">

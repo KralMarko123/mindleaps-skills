@@ -1,0 +1,43 @@
+[
+  {
+    "Skill": "Grit",
+    "Grade": 1,
+    "Description": "Students arrives at the center but does not participate in dance class even with teacher or peer encouragement"
+  },
+
+  {
+    "Skill": "Grit",
+    "Grade": 2,
+    "Description": "Student participates in less than half of the class"
+  },
+
+  {
+    "Skill": "Grit",
+    "Grade": 3,
+    "Description": "Student is present but not actively trying throughout the entire class"
+  },
+
+  {
+    "Skill": "Grit",
+    "Grade": 4,
+    "Description": "Student participates in warm up, recognizes change in directions, and understands number repetitions"
+  },
+
+  {
+    "Skill": "Grit",
+    "Grade": 5,
+    "Description": "Student participates in the entire class and noticeably demonstrates persistence when struggling"
+  },
+
+  {
+    "Skill": "Grit",
+    "Grade": 6,
+    "Description": "All of the above and student asks or answers questions"
+  },
+
+  {
+    "Skill": "Grit",
+    "Grade": 7,
+    "Description": "Student shows an extraordinary level of commitment by either practicing before/after class (self-initiated), askins questions that suggest a deeper analysis, or asking for more opportunities to practice"
+  }
+]

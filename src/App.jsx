@@ -2,14 +2,14 @@ import React from 'react';
 import logo from './assets/images/logo.png';
 import Skill from './components/Skill/Skill';
 import './styles/general.css';
+import { SKILL_NAMES } from './constants/SKILLS';
 
 const App = () => {
-  const skills = ['Grit', 'Discipline'];
   return (
     <div className="page">
       <img src={logo} alt="golo" className="page-logo" />
-      {skills.map((s, i) => (
-        <Skill key={i} skill={s} />
+      {SKILL_NAMES.map((sn, i) => (
+        <Skill key={i} skill={sn} />
       ))}
     </div>
   );
