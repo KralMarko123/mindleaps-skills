@@ -1,0 +1,43 @@
+[
+  {
+    "Skill": "Memorization",
+    "Grade": 1,
+    "Description": "Student cannot recall a sequence of 4 steps even after prompted at least three times"
+  },
+
+  {
+    "Skill": "Memorization",
+    "Grade": 2,
+    "Description": "Student can recall a sequence of 4 steps with 1 or no prompts"
+  },
+
+  {
+    "Skill": "Memorization",
+    "Grade": 3,
+    "Description": "Student can recall at least 2 sections of the warm up from class to class"
+  },
+
+  {
+    "Skill": "Memorization",
+    "Grade": 4,
+    "Description": "Student can recall entire warm up sequence, moving in time with the teacher, and can repeat diagonal steps after one prompt from the teacher"
+  },
+
+  {
+    "Skill": "Memorization",
+    "Grade": 5,
+    "Description": "Student can recall entire warm up sequence without teacher guidance, at least four diagonal steps, and at least 16 counts of choreography without teacher prompts"
+  },
+
+  {
+    "Skill": "Memorization",
+    "Grade": 6,
+    "Description": "Student can recall entire warm up, at least eight diagonal steps, all of choreography and name at least 6 muscles without teacher prompts"
+  },
+
+  {
+    "Skill": "Memorization",
+    "Grade": 7,
+    "Description": "Student can memorize a new sequence of choreography given in one class and do all of the above"
+  }
+]

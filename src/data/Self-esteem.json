@@ -1,0 +1,43 @@
+[
+  {
+    "Skill": "Self-esteem",
+    "Grade": 1,
+    "Description": "Student cannot perform any movement isolated (by himself)"
+  },
+
+  {
+    "Skill": "Self-esteem",
+    "Grade": 2,
+    "Description": "Student can perform a sequence of 2-4 steps on his own"
+  },
+
+  {
+    "Skill": "Self-esteem",
+    "Grade": 3,
+    "Description": "Student can continue through warm up sections and repetition of diagonal steps without encouragement from the teacher"
+  },
+
+  {
+    "Skill": "Self-esteem",
+    "Grade": 4,
+    "Description": "Student can deomnstrate by himself steps of the diagonal and volunteer parts of the choreography when asked by the teacher"
+  },
+
+  {
+    "Skill": "Self-esteem",
+    "Grade": 5,
+    "Description": "Student can demonstrate the warm up, diagonal steps and all of the choreography by himself with confidence and no prompts"
+  },
+
+  {
+    "Skill": "Self-esteem",
+    "Grade": 6,
+    "Description": "Student can verbally explain movement in the warm up, diagonal and choreography"
+  },
+
+  {
+    "Skill": "Self-esteem",
+    "Grade": 7,
+    "Description": "Student demonstrates confidence as a person and dancer through extending full use of body in space"
+  }
+]

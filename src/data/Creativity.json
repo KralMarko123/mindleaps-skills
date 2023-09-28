@@ -1,0 +1,43 @@
+[
+  {
+    "Skill": "Creativity",
+    "Grade": 1,
+    "Description": "Student is unable to demonstrate personal creativity by making up any pose or movement of his own"
+  },
+
+  {
+    "Skill": "Creativity",
+    "Grade": 2,
+    "Description": "Student can only demonstrate creative movement in a single step or movement with teacher's prompts"
+  },
+
+  {
+    "Skill": "Creativity",
+    "Grade": 3,
+    "Description": "Student can make up his own arms for a sequence of steps"
+  },
+
+  {
+    "Skill": "Creativity",
+    "Grade": 4,
+    "Description": "Student can only demonstrate creative movement in a series of steps by copying the teacher or peer's earlier demonstration"
+  },
+
+  {
+    "Skill": "Creativity",
+    "Grade": 5,
+    "Description": "Student can create his own movements that have not been taught before and differ from standard hip hop moves"
+  },
+
+  {
+    "Skill": "Creativity",
+    "Grade": 6,
+    "Description": "Student can create his own choreography"
+  },
+
+  {
+    "Skill": "Creativity",
+    "Grade": 7,
+    "Description": "Student can create his own choreography and present it"
+  }
+]

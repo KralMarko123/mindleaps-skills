@@ -1,0 +1,43 @@
+[
+  {
+    "Skill": "Discipline",
+    "Grade": 1,
+    "Description": "Student repeatedly talks back, fights, hits or argues with peers and teachers and does not stop even when asked repeatedly. Student is sent out of the class for 5-10 minutes by the teacher"
+  },
+
+  {
+    "Skill": "Discipline",
+    "Grade": 2,
+    "Description": "Student has to be reminded at least twice by name to respect his peers and/or pay attention to the teacher"
+  },
+
+  {
+    "Skill": "Discipline",
+    "Grade": 3,
+    "Description": "Student has to be reminded once by name to respect his peers and/or pay attention to the teacher"
+  },
+
+  {
+    "Skill": "Discipline",
+    "Grade": 4,
+    "Description": "Student respects/pays attention to the teacher, but bothers his peers, or vice versa (with no comments/prompts by teacher)"
+  },
+
+  {
+    "Skill": "Discipline",
+    "Grade": 5,
+    "Description": "Student works well with others and no teacher intervention is needed"
+  },
+
+  {
+    "Skill": "Discipline",
+    "Grade": 6,
+    "Description": "Student actively encourages others to pay attention and improve their behavior"
+  },
+
+  {
+    "Skill": "Discipline",
+    "Grade": 7,
+    "Description": "Student actively becomes a role model of exceptional, respectful behavior to the others"
+  }
+]

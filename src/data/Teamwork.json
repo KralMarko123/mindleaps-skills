@@ -1,0 +1,43 @@
+[
+  {
+    "Skill": "Teamwork",
+    "Grade": 1,
+    "Description": "Student refuses to hold hands or interact with partner in a required sequence across the floor"
+  },
+
+  {
+    "Skill": "Teamwork",
+    "Grade": 2,
+    "Description": "Student will do above, but is unable to work or communicate with his/her peer in any piece of choreography or another part of class, even when encouraged by the teacher"
+  },
+
+  {
+    "Skill": "Teamwork",
+    "Grade": 3,
+    "Description": "Student can work together with his/her peer in 2 or 3 simple steps in diagonal (two by two) or choreography when demonstrated/encouraged by the teacher with two verbal prompts"
+  },
+
+  {
+    "Skill": "Teamwork",
+    "Grade": 4,
+    "Description": "Student can work together with his/her peer in a section of diagonal (two by two) and complete at least four partnered/group movements in choreography"
+  },
+
+  {
+    "Skill": "Teamwork",
+    "Grade": 5,
+    "Description": "Student can work in a group to create a short choreographic piece with teacher coaching"
+  },
+
+  {
+    "Skill": "Teamwork",
+    "Grade": 6,
+    "Description": "Student can work in a group to create a short choreographic piece without teacher coaching"
+  },
+
+  {
+    "Skill": "Teamwork",
+    "Grade": 7,
+    "Description": "Student can work in a group to create a piece that is presented to the rest of class"
+  }
+]

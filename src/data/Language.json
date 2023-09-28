@@ -1,0 +1,43 @@
+[
+  {
+    "Skill": "Language",
+    "Grade": 1,
+    "Description": "Student is unable to count in a foreign language (ex. English)"
+  },
+
+  {
+    "Skill": "Language",
+    "Grade": 2,
+    "Description": "Student can count with teacher prompting, and can recall some basic words with one prompt"
+  },
+
+  {
+    "Skill": "Language",
+    "Grade": 3,
+    "Description": "Student can count without prompts and recall some words"
+  },
+
+  {
+    "Skill": "Language",
+    "Grade": 4,
+    "Description": "Student can recite positions in the warm up, at least six of the diagonal steps' names and positions"
+  },
+
+  {
+    "Skill": "Language",
+    "Grade": 5,
+    "Description": "Student can recite positions in the warm up, diagonal steps, and muscle names"
+  },
+
+  {
+    "Skill": "Language",
+    "Grade": 6,
+    "Description": "Student can recite simple phrases (minimum of 3 words)"
+  },
+
+  {
+    "Skill": "Language",
+    "Grade": 7,
+    "Description": "Student can make himself understood to ask questions or make comments"
+  }
+]
